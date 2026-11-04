@@ -1,0 +1,6 @@
+escenario,status,objetivo,horas_estudio,horas_deporte,horas_descanso,dias_max_carga,tiempo_s
+exp1a_base,"integer optimal, tolerance",44.552663055291,240,113.5,14.5,53,0.7980707
+exp1b_sprint_intenso,"integer optimal, tolerance",60.051625780058,240,113.5,14.5,53,1.6527319
+exp1c_prioridad_descanso,"integer optimal, tolerance",78.1089151991891,240,48,80,39,0.43075
+exp1d_saturacion_descanso,"integer optimal, tolerance",7.30640684557022,240,40,88,39,0.1645549
+exp2_calendario_real,"integer optimal, tolerance",96.5651826694977,160,45,9,29,0.1281811

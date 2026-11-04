@@ -1,0 +1,16 @@
+Escenario: exp1a_base
+Estado CPLEX: integer optimal, tolerance
+Valor objetivo: 44.5527
+Tiempo de resolucion: 0.80 s
+Variables: 840 (binarias: 392) | Restricciones: 860
+
+Asignatura                     Requeridas Asignadas    Examen   Sprint (h)
+Asignatura 1                        50.0      50.0        40         10.0
+Asignatura 2                        30.0      30.0        43         10.0
+Asignatura 3                        30.0      30.0        45         10.0
+Asignatura 4                        50.0      50.0        47         10.0
+Asignatura 5                        30.0      30.0        51         10.5
+Asignatura 6                        50.0      50.0        54         28.5
+
+Total estudio: 240.0 h | Deporte: 113.5 h | Descanso: 14.5 h
+Dias con la capacidad completa: 53 de 56

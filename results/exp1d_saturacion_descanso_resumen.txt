@@ -1,0 +1,16 @@
+Escenario: exp1d_saturacion_descanso
+Estado CPLEX: integer optimal, tolerance
+Valor objetivo: 7.3064
+Tiempo de resolucion: 0.16 s
+Variables: 840 (binarias: 392) | Restricciones: 860
+
+Asignatura                     Requeridas Asignadas    Examen   Sprint (h)
+Asignatura 1                        50.0      50.0        40         10.0
+Asignatura 2                        30.0      30.0        43         10.0
+Asignatura 3                        30.0      30.0        45         10.0
+Asignatura 4                        50.0      50.0        47         10.0
+Asignatura 5                        30.0      30.0        51         10.0
+Asignatura 6                        50.0      50.0        54         10.0
+
+Total estudio: 240.0 h | Deporte: 40.0 h | Descanso: 88.0 h
+Dias con la capacidad completa: 39 de 56

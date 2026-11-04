@@ -1,0 +1,20 @@
+# MATLAB
+*.asv
+*.mex*
+slprj/
+*_conflicto.ilp
+clone*.log
+
+# LaTeX
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# OS
+desktop.ini
+Thumbs.db
+.DS_Store

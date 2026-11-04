@@ -1,0 +1,16 @@
+Escenario: exp2_calendario_real
+Estado CPLEX: integer optimal, tolerance
+Valor objetivo: 96.5652
+Tiempo de resolucion: 0.13 s
+Variables: 495 (binarias: 231) | Restricciones: 512
+
+Asignatura                     Requeridas Asignadas    Examen   Sprint (h)
+Data Analytics                      10.0      10.0        10         10.0
+Machine Learning                    40.0      40.0        19         10.0
+Física Computacional                40.0      40.0        23         10.0
+Visualización de Datos              15.0      15.0        26         10.0
+Técnicas de Optimización IA         45.0      45.0        30         21.0
+Estructura de Datos                 10.0      10.0        33         10.0
+
+Total estudio: 160.0 h | Deporte: 45.0 h | Descanso: 9.0 h
+Dias con la capacidad completa: 29 de 33
